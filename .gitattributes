@@ -1,0 +1,2 @@
+# GitHub-მა ყველა .php ფაილი PHP-ად ჩათვალოს (index.php-ში <?php ტეგი არ არის)
+*.php linguist-language=PHP
